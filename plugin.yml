@@ -1,0 +1,5 @@
+name: PluginScaffolding
+main: BestCodrEver\PluginScaffolding\Main
+api: 3.19.1
+author: BestCodrEver
+version: 1.0.0
