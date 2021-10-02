@@ -1,2 +1,2 @@
 # PluginScaffolding
-Plugin Scaffolding for PMMP API 3.20.0
+Plugin Scaffolding for PMMP 
